@@ -1,0 +1,46 @@
+.catalog{
+    display: flex;
+    margin-top: 50px;
+}
+
+.cat{
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cat1{
+    background: cornflowerblue;
+    width: 80%;
+    border-radius: 10px;
+    padding: 30px;
+    margin-right: 10px;
+}
+
+.cat2{
+    background: rgb(237, 100, 141);
+    width: 80%;
+    border-radius: 10px;
+    padding: 30px;
+    margin-right: 10px;
+}
+
+.cat3{
+    background: cornflowerblue;
+    width: 80%;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.big-right{
+    font-size: 40px;
+    right: 10px;
+    top: 10px;
+    color: #fff;
+    display: absolute;
+}
+
+.left{
+    margin-top: 14px;
+}
